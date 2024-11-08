@@ -26,6 +26,7 @@
   />
 </a>
 <a href="https://www.producthunt.com/posts/jitsu-2?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-jitsu&#0045;2" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=297526&theme=neutral" alt="Jitsu - Open&#0045;source&#0032;real&#0045;time&#0032;data&#0032;collection&#0032;platform | Product Hunt" style="width: 200px; height: 43px;" width="200" height="43" /></a>
+<a href="https://gurubase.io/g/jitsu"><img src="https://img.shields.io/badge/Gurubase-Ask%20Jitsu%20Guru-006BFF" alt="Gurubase" style="width: 200px; height: 43px;" width="200" height="43" /></a>
 </p>
 
 # What is Jitsu?
